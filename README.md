@@ -2,6 +2,8 @@
 
 A minimal viable product that crawls websites, extracts content, and enables conversational Q&A using a local LLM.
 
+The goal was to create a RAG with all the tools at our disposal in less than an hour and a hald. In our case, we used Claude Code.
+
 ## Group Members
 
 Ryan NAIDJI
